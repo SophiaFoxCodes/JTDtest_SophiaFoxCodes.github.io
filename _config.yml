@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Sophia Fox Homepage
+description: The homepage and linktree of Sophia Fox in Las Vegas, NV
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://sophiafoxcodes.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
